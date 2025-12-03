@@ -1,7 +1,7 @@
 # Привет, меня зовут Татьяна
 ### Data Analyst / Продуктовый аналитик
 
-![Data Analytics](https://media.giphy.com/media/WUlplcMfOCEmTGBtBW/giphy.gif)
+
 
 ---
 
