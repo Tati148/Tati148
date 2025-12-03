@@ -19,6 +19,7 @@
 
 Открыта для сотрудничества и интересных проектов! 🤝
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Languages and Tools
@@ -36,14 +37,12 @@
 ![Redash](https://img.shields.io/badge/Redash-F37C40?style=for-the-badge&logo=redash&logoColor=white)
 ![Visiology](https://img.shields.io/badge/Visiology-00A98F?style=for-the-badge)
 
-#### **Анализ данных и ML:**
+#### **Библиотеки Python:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### **Разработка и управление:**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
@@ -52,6 +51,7 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS_Project-217346?style=for-the-badge&logo=microsoft-project&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 ---
