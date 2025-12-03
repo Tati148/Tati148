@@ -98,20 +98,26 @@
 - **Местоположение:** Санкт-Петербург, Россия
 - **Формат работы:** удалённо
 
-## 📊 GitHub Statistics
+<div align="center">
+  
+<!-- Первая строка - 2 виджета -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tati148&theme=buefy" alt="GitHub Stats" width="45%" style="margin: 0 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tati148&theme=buefy" alt="Most Used Languages" width="45%" style="margin: 0 10px;"/>
+</p>
 
-<!-- Статистика профиля -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tati148&theme=buefy" alt="GitHub Stats" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tati148&theme=buefy" alt="Most Used Languages" width="49%"/>
+<!-- Вторая строка - 2 виджета -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tati148&theme=buefy" alt="Repos per Language" width="45%" style="margin: 0 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tati148&theme=buefy" alt="Productive Time" width="45%" style="margin: 0 10px;"/>
+</p>
 
-<!-- Дополнительные карточки -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tati148&theme=buefy" alt="Repos per Language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tati148&theme=buefy" alt="Productive Time" width="49%"/>
-
-<!-- Традиционная статистика -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tati148&show_icons=true&theme=buefy&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tati148&layout=compact&theme=buefy&langs_count=6)
+</div>
 
 <!-- Полоса активности -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tati148&theme=buefy&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tati148&theme=defaul&hide_border=true)
+
+</div>
+
+
 
