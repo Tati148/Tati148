@@ -101,17 +101,17 @@
 ## 📊 GitHub Statistics
 
 <!-- Статистика профиля -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vickiticy&theme=github_dark" alt="GitHub Stats" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vickiticy&theme=github_dark" alt="Most Used Languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tati148&theme=buefy" alt="GitHub Stats" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tati148&theme=buefy" alt="Most Used Languages" width="49%"/>
 
 <!-- Дополнительные карточки -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vickiticy&theme=github_dark" alt="Repos per Language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vickiticy&theme=github_dark" alt="Productive Time" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tati148&theme=buefy" alt="Repos per Language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tati148&theme=buefy" alt="Productive Time" width="49%"/>
 
 <!-- Традиционная статистика -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickiticy&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vickiticy&layout=compact&theme=radical&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tati148&show_icons=true&theme=buefy&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tati148&layout=compact&theme=buefy&langs_count=6)
 
 <!-- Полоса активности -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vickiticy&theme=github-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tati148&theme=buefy&hide_border=true)
 
