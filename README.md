@@ -4,9 +4,6 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="https://linkedin.com/in/ваш_профиль">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
     <a href="https://t.me/tus_i_148">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
@@ -99,6 +96,6 @@
 
 - **Email:** [tilushenko1408@gmail.com](mailto:tilushenko1408@gmail.com)
 - **Telegram:** [@tus_i_148](https://t.me/tus_i_148) 
-- **GitHub:** [vickiticy](https://github.com/vickiticy)
+- **GitHub:** [Tati148](https://github.com/Tati148)
 - **Местоположение:** Санкт-Петербург, Россия
 - **Формат работы:** удалённо
