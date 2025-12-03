@@ -1,7 +1,19 @@
-# Hello, I'm Tatiana 👋 
-### Data Analyst / Продуктовый аналитик
+<div id="header" align="center">
+    <h1>Hello, I'm Tatiana 👋</h1>
+    <h3>Data Analyst / Product Analyst</h3>
+</div>
 
-
+<div id="socials" align="center">
+    <a href="https://linkedin.com/in/ваш_профиль">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://t.me/tus_i_148">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://wa.me/79046089346">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+</div>
 
 ---
 
@@ -19,7 +31,8 @@
 
 Открыта для сотрудничества и интересных проектов! 🤝
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vickiticy&show_icons=true&theme=radical)
+
 ---
 
 ## 🛠️ Languages and Tools
@@ -53,10 +66,9 @@
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 ---
 
-# 💼 Мои проекты
+## 💼 Мои проекты
 
 | Проект | Описание | Стек |
 |--------|----------|------|
@@ -65,6 +77,7 @@
 | **Деловые игры для обучения сотрудников** | Разработка математической логики и аналитики для веб-приложений-тренажёров. Обучение сотрудников работе с MS Project и оценке проектов. | Python, Django, Jupyter Notebook, PostgreSQL |
 | **Автоматизация отчётности и KPI** | Разработка методики расчёта комплексных метрик, автоматизация отчётности в MS Excel. Создание системы мониторинга KPI. | Excel (VBA, Power Query, DAX), SQL, Python |
 | **Модуль аналитики для веб-приложений** | Разработка модуля визуальной аналитики и отчётности для внутренних корпоративных систем. | Plotly, Seaborn, Power BI, PostgreSQL |
+
 ---
 
 ## 📚 Образование и курсы
